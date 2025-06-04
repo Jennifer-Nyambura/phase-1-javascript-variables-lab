@@ -35,4 +35,8 @@ describe('index.js', function () {
       expect(js).to.match(/let companyCeo/, "Expected companyCeo to be defined using let");
     });
   });
-});
+})
+
+let mostProfitableNeighborhood = 'Chelsea';
+let companyCeo = 'Susan Smith';
+const companyName = 'Scuber';
